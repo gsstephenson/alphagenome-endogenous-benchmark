@@ -374,7 +374,7 @@ def step4_run_alphagenome_predictions(sequences):
         from alphagenome.models.dna_output import OutputType
         
         # Initialize AlphaGenome client with API key
-        API_KEY = "AIzaSyDYc_A3FxbySY1DuKs1PY6GWUfhVdFlHkA"
+        API_KEY = "Insert_Your_API_Key_Here"  # Replace with your actual API key
         client = create(api_key=API_KEY)
         
         logger.info("AlphaGenome client initialized successfully")
