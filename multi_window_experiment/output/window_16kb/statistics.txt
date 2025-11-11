@@ -1,0 +1,16 @@
+Promoter-proximal (16 KB) Window Results
+============================================================
+
+Window size: 16384 bp
+Number of variants: 1000
+
+Spearman correlation: -0.0125
+Spearman p-value: 6.93e-01
+
+Pearson correlation: 0.0224
+Pearson p-value: 4.79e-01
+
+GTEx slope mean: 0.000019
+GTEx slope std: 0.000046
+AlphaGenome delta mean: -0.000007
+AlphaGenome delta std: 0.000738

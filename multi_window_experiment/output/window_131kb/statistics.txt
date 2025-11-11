@@ -1,0 +1,16 @@
+TAD-scale (131 KB) Window Results
+============================================================
+
+Window size: 131072 bp
+Number of variants: 1000
+
+Spearman correlation: 0.0100
+Spearman p-value: 7.52e-01
+
+Pearson correlation: -0.0110
+Pearson p-value: 7.27e-01
+
+GTEx slope mean: 0.000019
+GTEx slope std: 0.000046
+AlphaGenome delta mean: -0.000003
+AlphaGenome delta std: 0.000133

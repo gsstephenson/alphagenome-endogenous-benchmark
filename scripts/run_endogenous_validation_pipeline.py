@@ -9,7 +9,7 @@ This script validates AlphaGenome predictions on endogenous human variants by:
 4. Running AlphaGenome predictions
 5. Benchmarking against GTEx slopes
 
-Author: GitHub Copilot
+Author: George Stephenson
 Date: November 5, 2025
 """
 

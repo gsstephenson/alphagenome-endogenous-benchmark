@@ -1,0 +1,16 @@
+Standard (2 KB) Window Results
+============================================================
+
+Window size: 2048 bp
+Number of variants: 1000
+
+Spearman correlation: 0.0375
+Spearman p-value: 2.36e-01
+
+Pearson correlation: 0.0181
+Pearson p-value: 5.67e-01
+
+GTEx slope mean: 0.000019
+GTEx slope std: 0.000046
+AlphaGenome delta mean: 0.000047
+AlphaGenome delta std: 0.005262

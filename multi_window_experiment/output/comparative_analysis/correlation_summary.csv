@@ -1,0 +1,4 @@
+Window Size,Window (bp),N Variants,Spearman r,Spearman p,Pearson r,Pearson p,eQTL Effect Std,Prediction Std
+Standard (2 KB),2048,1000,0.0375,2.36e-01,0.0181,5.67e-01,0.000046,0.005262
+Promoter-proximal (16 KB),16384,1000,-0.0125,6.93e-01,0.0224,4.79e-01,0.000046,0.000738
+TAD-scale (131 KB),131072,1000,0.0100,7.52e-01,-0.0110,7.27e-01,0.000046,0.000133
